@@ -2,7 +2,7 @@
 
 ## Download
 Realize o download no site oficial - Windows Binary (.zip)
-(https://nodejs.org)
+https://nodejs.org
 
 ## Escolha
 - LTS Version
@@ -17,3 +17,4 @@ Realize o download no site oficial - Windows Binary (.zip)
 ## Validação
 Abra o CMD na pasta onde o Node foi extraído, ou navegue até a pasta e execute: node -v npm -v
 Se retornarem suas respectivas versões, está tudo certo!
+
