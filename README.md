@@ -1,3 +1,5 @@
+https://img.shields.io/badge/portable-environment-blue https://img.shields.io/badge/official-distributions-green
+
 # portable-environment
 Node + VsCode + Git em um ambiente portável.
 
