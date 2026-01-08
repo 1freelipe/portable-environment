@@ -11,9 +11,10 @@ Por sua configuração inicial, o npm salva pacotes e arquivos nas pastas mencio
 ## .npmrc
 Crie um arquivo na raíz do projeto, exatamente com esse nome `.npmrc`, dentro será incluso:
 
-prefix=${NPM_PORTABLE}/npm-global
-cache=${NPM_PORTABLE}/npm-cache
+1. prefix=${NPM_PORTABLE}/npm-global
+2. cache=${NPM_PORTABLE}/npm-cache
 
 ## Validação
 npm config get prefix
 npm config get cache
+
