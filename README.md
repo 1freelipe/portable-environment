@@ -32,5 +32,9 @@ Node + VsCode + Git em um ambiente portável.
 4. Monte o script exatamente como identificado no repositório
 5. Realize os testes via terminal quando terminar as configurações. node -v, git --version e npm -v - Se todos eles responderem de acordo com o nome da pasta, está ok!
 
+## Nota
+- O repositório apenas contém o passo a passo em docs/* de como criar um ambiente portável, nenhum arquivo oficial atrelado ou o próprio ambiente.
+- Apenas o script contido em scripts/, contém o script principal para rodar o ambiente no computador.
+
 
 
